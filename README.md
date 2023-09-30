@@ -1,5 +1,4 @@
-# password-generator-
-# Random Password Generator
+# CodeClauseInternship_Random Password Generator
 
 This Python program generates random passwords based on user specifications.
 
